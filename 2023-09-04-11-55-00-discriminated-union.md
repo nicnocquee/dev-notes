@@ -1,3 +1,4 @@
+# What is Discriminated Union in TypeScript?
 
 Person: 
 - what does 'discriminated union' mean?
