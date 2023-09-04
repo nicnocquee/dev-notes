@@ -1,4 +1,4 @@
-# PR Review in practice: Use `<Link>` instead of router.push
+# Today I Reviewed: Use `<Link>` instead of router.push
 
 A PR was made like the following
 
